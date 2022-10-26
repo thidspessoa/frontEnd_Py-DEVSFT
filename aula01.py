@@ -9,5 +9,5 @@ branco = True
 print(nome,type(nome))
 #metodo type diz o tipo primitivo da variavel
 print (idade, type(idade))
-print (altura, type (altura))
-print (branco, type (branco))
+print (altura, type(altura))
+print (branco, type(branco))
